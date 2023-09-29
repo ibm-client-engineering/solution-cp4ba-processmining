@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[868],{8562:s=>{s.exports=JSON.parse('{"label":"sprint","permalink":"/solution-cp4ba-processmining/blog/tags/sprint","allTagsPath":"/solution-cp4ba-processmining/blog/tags","count":1}')}}]);

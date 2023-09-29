@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[54],{9931:s=>{s.exports=JSON.parse('{"label":"log","permalink":"/solution-cp4ba-processmining/blog/tags/log","allTagsPath":"/solution-cp4ba-processmining/blog/tags","count":1}')}}]);
